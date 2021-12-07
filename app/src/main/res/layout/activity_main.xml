@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_privatemoviez"
+            android:text="private moviez"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_moviesverse"
+            android:text="movies verse"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_moviesflixpro"
+            android:text="movies flix pro"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_olamovies"
+            android:text="ola movies"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_movieshub"
+            android:text="movies hub"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_vegamovies"
+            android:text="vega movies"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_hdhub4u"
+            android:text="hd hub 4u"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_9xmovies"
+            android:text="9xmovies"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_movies123"
+            android:text="movies123"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_world4ufree1"
+            android:text="world4ufree1"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_katmoviehd"
+            android:text="katmoviehd"
+            android:background="@drawable/bg"
+            android:textStyle="bold"
+            android:layout_marginVertical="5dp"/>
+
+    </LinearLayout>
+
+
+
+</ScrollView>
